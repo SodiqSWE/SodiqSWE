@@ -1,8 +1,10 @@
 # Sup! I'm Sodiq ✌🏾
 
-I'm a 26-year old dev on the East Coast, and I love developing!
+I'm a software developer on the East Coast, and I love building scalable and highly responsive software!
 
-📦 My ToolBox
+Currently working on a TS (Top Secret) modern web app for the US Navy. 
+
+📦 A Few Tools in my toolbox
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -20,7 +22,3 @@ I'm a 26-year old dev on the East Coast, and I love developing!
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" **alt="GitLab" width="40" height="40"/>
 </div>
 <br>
-📥 Contact
-<br>
-<br>
-<a href="www.linkedin.com/in/abdul-sodiq-odeyale">LinkedIn</a>
