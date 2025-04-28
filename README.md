@@ -2,7 +2,7 @@
 
 I'm a software developer on the East Coast, and I love building scalable and highly responsive software!
 
-Currently working on a TS (Top Secret) modern web app for the US Navy. 
+Currently working on a TS (Top Secret) modern web app. 
 
 📦 A Few Tools in my toolbox
 
