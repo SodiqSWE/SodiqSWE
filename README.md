@@ -1,8 +1,6 @@
 # Sup! I'm Sodiq ✌🏾
 
-I'm a software developer on the East Coast, and I love building scalable and highly responsive software!
-
-Currently working on a TS (Top Secret) modern web app. 
+I'm a software developer on the East Coast, and I love building scalable and highly responsive software! 
 
 📦 A Few Tools in my toolbox
 
